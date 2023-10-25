@@ -47,8 +47,8 @@ Welcome to my GitHub profile! I'm Yaman Gupta, a Computer Science student at PES
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](<Your LinkedIn Profile Link>)
-- [Portfolio](<Your Portfolio Link>)
-- [Github](<Your Github Profile Link>)
+- [LinkedIn](<https://www.linkedin.com/in/yaman-gupta-184a32233/>)
+- [Portfolio](<https://yaman.vercel.app/>)
+- [Github](<https://github.com/yaman122>)
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly chat! 🚀✨
