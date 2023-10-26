@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Yaman Gupta, a Computer Science student at PES
   - *PES University, Bengaluru*
   - *Expected Graduation: May 2025*
   - *Major: Computer Science and Engineering*
-  - *CGPA: 7.77 (Till 4th Semester)*
+  
 
 ## 💻 Skills
 
